@@ -41,4 +41,4 @@ ___
 ___
 
 ## Certificate
-![Shaimaa Elbadrawy Certificate](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/Shaimaa%20Elbadrawy%20Cert.png)
+![Khalid Altahan Certificate](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/certificate.pdf)
