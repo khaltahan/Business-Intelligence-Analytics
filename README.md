@@ -35,9 +35,9 @@ ___
 
 | Project No. | Project |
 | ---		  | ----    |
-| 01		  | [Out-of-the-Box Analytics](/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/) 	|
-| 02 		  | [Population Statistics Data Model](/02-Building-Power-BI-Report-for-Waggle/) 								|
-| 03 		  | [Commercial Flight Analysis in the State of New York](/03-Market-Analysis-Report-for-National-Clothing-Chain/)	|
+| 01		  | [Out-of-the-Box Analytics](/Out-of-the-Box Analytics/) 	|
+| 02 		  | [Population Statistics Data Model](/Population Statistics Data Model/) 								|
+| 03 		  | [Commercial Flight Analysis in the State of New York](/Commercial Flight Analysis in the State of New York/)	|
 ___
 
 ## Certificate
