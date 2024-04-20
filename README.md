@@ -35,9 +35,9 @@ ___
 
 | Project No. | Project |
 | ---		  | ----    |
-| 01		  | [Out-of-the-Box Analytics] 	|
-| 02 		  | [Population Statistics Data Model] 								|
-| 03 		  | [Commercial Flight Analysis in the State of New York]	|
+| 01		  | Out of the Box Analytics 	|
+| 02 		  | Population Statistics Data Model 								|
+| 03 		  | Commercial Flight Analysis in the State of New York	|
 ___
 
 ## Certificate
