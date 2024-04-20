@@ -41,4 +41,4 @@ ___
 ___
 
 ## Certificate
-![Khalid Altahan Certificate](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/certificate.pdf)
+![Khalid Altahan Certificate](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/certificate.PNG)
