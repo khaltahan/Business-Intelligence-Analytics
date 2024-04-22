@@ -29,14 +29,18 @@ Power BI offers a range of capabilities to address specific data issues, includi
 ___
 ## Project
 
-**1. Data Analytics Lifecycle:**
+**City Analysis**
 
-![Khalid Altahan Certificate](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/certificate.PNG)
+![City Spending Analysis](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/Out-of-the-Box-Analytics/City.PNG)
 
-**1. Data Analytics Lifecycle:**
+**Spending Analysis**
 
-![Khalid Altahan Certificate](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/certificate.PNG)
+![City Spending Analysis](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/Out-of-the-Box-Analytics/Spending.PNG)
 
-**1. Data Analytics Lifecycle:**
+**Vendor Analysis**
 
-![Khalid Altahan Certificate](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/certificate.PNG)
+![Vendor Analysis](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/Out-of-the-Box-Analytics/Vendor.PNG)
+
+**Executive Summary**
+
+![City Spending Analysis](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/Out-of-the-Box-Analytics/ExecutiveSummary.PNG)
