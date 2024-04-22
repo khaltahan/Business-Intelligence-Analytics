@@ -27,14 +27,16 @@ The four main types of data analytics are descriptive, which summarizes past dat
 Power BI offers a range of capabilities to address specific data issues, including data visualization, integration, and advanced analytics. By navigating through Power BI Desktop, users can load various data sources and utilize its tools to create basic visuals such as charts and graphs. This process not only helps in presenting data more effectively but also in identifying and resolving underlying data issues through visual insights and analysis.
 
 ___
-## Projects
+## Project
 
-| Project No. | Project |
-| ---		  | ----    |
-| 01		  | Out of the Box Analytics 	|
-| 02 		  | Population Statistics Data Model 								|
-| 03 		  | Commercial Flight Analysis in the State of New York	|
-___
+**1. Data Analytics Lifecycle:**
 
-## Certificate
+![Khalid Altahan Certificate](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/certificate.PNG)
+
+**1. Data Analytics Lifecycle:**
+
+![Khalid Altahan Certificate](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/certificate.PNG)
+
+**1. Data Analytics Lifecycle:**
+
 ![Khalid Altahan Certificate](https://github.com/khaltahan/Business-Intelligence-Analytics/blob/main/certificate.PNG)
