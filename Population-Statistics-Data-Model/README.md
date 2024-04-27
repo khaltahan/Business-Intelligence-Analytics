@@ -1,30 +1,32 @@
 # **Population Statistics Data Model**
 
-In this project, learners will be analysts for a consulting company called Out-of-the-Box Analytics Inc.
-They will review the client’s online job advertising data and, from the data driven insights they gather,
-propose more efficient ways of allocating advertising funds. They will present their findings on a Power BI
-dashboard. They will complete this project by utilizing the steps from the data analytics lifecycle, ensuring
-the data has proper integrity, and applying the appropriate analytics method to deliver insights. Finally,
-learners will create their own Power BI dashboard to communicate their findings.
+In this project, learners will be provided data about changes in population, employment, and income from
+various government sources including; the US Bureau of Labor Statistics, the US Census Bureau, and the US
+Federal Reserve. The data they are provided is saved in different locations, is raw and unclean, and requires
+organization. The learner will perform an analysis of the data, but in order to do so will first need to utilize
+the data preparation and modeling skills they learned in the course to build an efficient data model. This
+data model will be the foundation upon which their analysis is built. They will need to connect to and
+ingest various data sources, clean and organize that data, and build table relationships in an efficient table
+schema. This will all be done using the Power BI tools covered in the course. 
  
 ___
 ## Lessons:
 
-**1. Data Analytics Lifecycle:**
+**1. Relational Data & Table Structure:**
 
-The data analytics lifecycle involves several steps: identifying the business problem, acquiring data, preparing and cleaning the data, analyzing the data, interpreting the results, and making decisions based on these insights. To determine where a project is within this lifecycle, assess the current activities against these stages. Moving forward in the lifecycle requires ensuring that each phase's criteria are met, such as data cleanliness and relevance before proceeding from preparation to analysis. This ensures the integrity and effectiveness of the analytics outcomes.
+This lesson focuses on the fundamentals of relational database design, emphasizing the importance of identifying unique keys that enable the creation of relationships among different tables. Students will learn to recognize and categorize fact and dimension tables, essential for organizing data within a database. The session culminates with designing star schemas, which is crucial for structuring data in a way that simplifies querying and enhances performance in data retrieval tasks.
 
-**2. Data Integrity**
+ **2. Power Query & M Overview**
 
-Data integrity is crucial for reliable analysis and falls primarily within the data preparation phase of the data analytics lifecycle. It involves ensuring accuracy, consistency, and reliability of data throughout its lifecycle. When reviewing a data table, issues such as missing values, duplicate records, and inconsistent formats can be identified, all of which compromise data integrity. To resolve these issues, appropriate methods include implementing data validation rules, using software tools for detecting and correcting errors, and standardizing data entry processes. These steps help maintain the quality of data, enabling more accurate and effective analysis.
+In this lesson, students will explore the extensive functionalities of Power Query, a tool integral to data processing and manipulation in Excel and Power BI. The course will guide participants through the various features and tools available within Power Query, helping them to select the most appropriate tools for specific data cleaning scenarios. Additionally, learners will delve into the advanced editor to read and interpret M scripts, acquiring the skills to make basic modifications to these scripts to better suit their data handling needs.
 
-**3. Types of Data Analytics & Statistics**
+**3. Data Cleaning & Organization**
 
-The four main types of data analytics are descriptive, which summarizes past data to understand what has happened; diagnostic, which investigates that data to determine causes of outcomes; predictive, which uses models to forecast future scenarios; and prescriptive, which suggests actions to achieve desired outcomes. The selection of a data analytics type depends on the specific needs of a situation. For instance, predictive analytics, which includes techniques such as regression analysis, machine learning models, and time series forecasting, is ideal for scenarios where future trends or behaviors need to be anticipated to make informed decisions.
+The third lesson is dedicated to mastering data cleaning and organization using Power Query. Participants will employ various tools within Power Query to effectively clean and organize their data, ensuring high-quality and well-structured outputs. The lesson also introduces the creation of custom M formulas, a skill that enhances the flexibility and power of data cleaning processes, enabling participants to tailor their workflows to specific data challenges.
 
-**4. Power BI Overview**
+**4. DAX Language & Quantitative Analysis**
 
-Power BI offers a range of capabilities to address specific data issues, including data visualization, integration, and advanced analytics. By navigating through Power BI Desktop, users can load various data sources and utilize its tools to create basic visuals such as charts and graphs. This process not only helps in presenting data more effectively but also in identifying and resolving underlying data issues through visual insights and analysis.
+The final lesson introduces students to the Data Analysis Expressions (DAX) language used in Power BI for creating advanced calculations and data models. Learners will practice reading DAX code and making simple amendments to enhance existing formulas. The session covers the basics of using DAX to develop quantitative measurements and the correct setup of table relationships in Power BI. Moreover, it includes creating unique keys when necessary, facilitating smoother data management and analysis within Power BI environments.
 
 ___
 ## Project
